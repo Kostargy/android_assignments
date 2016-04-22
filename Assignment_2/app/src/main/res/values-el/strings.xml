@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="freeThrow">ΕΛΕΥΘΕΡΗ ΒΟΛΗ</string>
+    <string name="points2">+2 ΠΟΝΤΟΥΣ</string>
+    <string name="points3">+3 ΠΟΝΤΟΥΣ</string>
+    <string name="teamA">Ομάδα Α</string>
+    <string name="teamB">Ομάδα Β</string>
+</resources>

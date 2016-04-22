@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Assignment_2</string>
+    <string name="app_name">CourtCounter</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="points3">+3 POINTS</string>
+    <string name="points2">+2 POINTS</string>
+    <string name="freeThrow">FREE THROW</string>
+    <string name="reset" translatable="false">RESET</string>
 </resources>
